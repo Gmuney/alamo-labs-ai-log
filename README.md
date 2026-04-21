@@ -24,3 +24,6 @@ This bot wasn't "impressive" in its output, but it was a massive win in executio
 
 ## 🗂 Status: ARCHIVED
 I am not building this specific crawler out any further. It served its purpose: it proved we could build a bridge between a server and the web. We are moving on to more advanced, stable builds.
+## 🗺 The Blueprint
+The vision for this build was based on a high-level architecture. You can view the original logic and instruction manual here:
+[View the Bot Blueprint](./openclaw_build_guide.pdf)
